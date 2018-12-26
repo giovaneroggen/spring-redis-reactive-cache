@@ -1,0 +1,4 @@
+br.com.roggen.cache.redis.EnableCaching=\
+br.com.roggen.cache.redis.config.RedisConfiguration,\
+br.com.roggen.cache.redis.CacheableAspect,\
+br.com.roggen.cache.redis.CacheEvictAspect
